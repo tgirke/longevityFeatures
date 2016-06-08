@@ -1,4 +1,4 @@
-# longevityDrugs
+# longevityFeatures
 
 R data package containing annotations of genes, proteins and other features associated with longevity and aging. The package is part of the [Longevity Genomics](http://www.longevitygenomics.org/) project funded by NIA. The website of this GitHub project is available [here](http://girke.bioinformatics.ucr.edu/longevityTools). The HTML vignettes of the package are available here:
 
